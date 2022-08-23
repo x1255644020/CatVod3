@@ -20,15 +20,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key":"T4爬虫",
-      "name":"T4爬虫",
-      "type":4,
-      "api":"https://t4.catvod.eu.org/catvod/vod",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0
-   }
   ],
   "lives": [
     {
