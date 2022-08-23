@@ -21,8 +21,8 @@
       "filterable": 1
     },
     {
-      "key":"t4test",
-      "name":"T4测试",
+      "key":"T4爬虫",
+      "name":"T4爬虫",
       "type":4,
       "api":"https://t4.secan.icu/vod",
       "searchable":1,
