@@ -3,6 +3,16 @@
   "spider": "https://kvymin.github.io/CatVod/jar/0822.jar;md5;2155381c69173946b0b9d068218e7a97",
   "sites": [
     {
+      "key":"优众影视",
+      "name":"优众影视",
+      "type":3,
+      "api":"csp_AppYs",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"http://121.205.88.194:7878/xgapp.php/v2/"
+    },
+    {
       "key": "Lezhu_spider",
       "name": "📽️乐猪影视",
       "type": 3,
