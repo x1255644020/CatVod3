@@ -1,8 +1,8 @@
 {
-  //"qq": "http://123.56.222.84:2025/iphones/100.php?url=",
+  "qq": "http://123.56.222.84:2025/iphones/100.php?url=",
   "youku": "http://123.56.222.84:2025/iphones/100.php?url=",
-  //"iqiyi": "http://123.56.222.84:2025/iphones/100.php?url=",
-  //"mgtv": "http://123.56.222.84:2025/iphones/100.php?url=",
+  "iqiyi": "http://123.56.222.84:2025/iphones/100.php?url=",
+  "mgtv": "http://123.56.222.84:2025/iphones/100.php?url=",
   "le": "http://123.56.222.84:2025/iphones/200.php?url=",
   "gqjx": "http://123.56.222.84:2025/iphones/100.php?url=",
   "appid": "10000",
