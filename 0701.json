@@ -468,7 +468,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "3a49cf29cf20410997247c6eb4509be9"
+      "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
     }
   ],
   "lives": [
@@ -501,7 +501,7 @@
       "url": "Sequence"
     },
     {
-      "name": "GGTV快速",
+      "name": "GGTV",
       "type": 1,
       "url": "https://play.fuqizhishi.com/gang0823/API.php?appkey=QQ172598364&url="
     },
@@ -619,17 +619,17 @@
       }
     },
     {
-      "name": "m3u8tv高清",
+      "name": "m3u8tv",
       "type": 0,
       "url": "https://jx.m3u8.tv/jiexi/?url="
     },
     {
-      "name": "parwix稳定",
+      "name": "parwix",
       "type": 0,
       "url": "https://jx.bozrc.com:4433/player/?url="
     },
     {
-      "name": "OKjx综合",
+      "name": "OKjx",
       "type": 0,
       "url": "https://okjx.cc/?url="
     }
