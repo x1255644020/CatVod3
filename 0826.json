@@ -2,8 +2,8 @@
   "spider": "https://kvymin.github.io/CatVod/jar/0826.jar;md5;b10d1d0527e69bcdc323a4c0bf9e5d65",
   "sites": [
     {
-      "key": "🕊Lezhu_spider",
-      "name": "乐猪影视",
+      "key": "Lezhu_spider",
+      "name": "🕊乐猪影视",
       "type": 3,
       "api": "csp_Lezhu",
       "searchable": 1,
