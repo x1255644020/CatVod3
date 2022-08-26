@@ -1,9 +1,18 @@
 {
-  "spider": "https://kvymin.github.io/CatVod/jar/custom_spider.jar;md5;d63fe3db21b48e04884c2d5303907bd1",
+  "spider": "https://kvymin.github.io/CatVod/jar/custom_spider.jar;md5;ebb575522779863781215cf95463197d",
   "sites": [
     {
+      "key": "T4",
+      "name": "T4（爬虫）",
+      "type": 4,
+      "api": "https://t4.catvod.eu.org/catvod/gaze",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "厂长影视",
-      "name": "厂长影视〔SP〕",
+      "name": "厂长影视",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
